@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Expo Typescript Boilerplate",
-    "description": "This project is really great.",
+    "name": "Expo Typescript Starter",
+    "description": "Expo Typescript Starter",
     "slug": "typescript",
     "privacy": "public",
     "sdkVersion": "31.0.0",
@@ -17,11 +17,10 @@
     "updates": {
       "fallbackToCacheTimeout": 0
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.mbit.expotypescriptstarter"
     }
   }
 }

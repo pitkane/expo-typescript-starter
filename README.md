@@ -1,1 +1,3 @@
-# react-native-sudoku
+# expo-typescript-starter
+
+Expo has builtin support for Typescript.
